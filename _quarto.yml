@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Youxiang Jiang | 姜有祥"
+  description: "Academic homepage of Youxiang Jiang, a psychometric researcher."
+  site-url: "https://jiangyouxiang.github.io"
+  navbar:
+    background: "#ffffff"
+    foreground: "#1f2933"
+    title: "Youxiang Jiang"
+    collapse-below: sm
+    left:
+      - text: "About / 关于"
+        href: "#about"
+      - text: "Research / 研究"
+        href: "#research"
+      - text: "Education / 教育经历"
+        href: "#education"
+      - text: "Publications / 论文"
+        href: "#publications"
+      - text: "Software / 软件"
+        href: "#software"
+      - text: "Contact / 联系"
+        href: "#contact"
+  search: false
+  page-footer:
+    left: "© 2026 Youxiang Jiang"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
+    code-fold: false
+
+execute:
+  freeze: auto
