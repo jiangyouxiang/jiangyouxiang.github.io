@@ -10,7 +10,7 @@ website:
     background: "#ffffff"
     foreground: "#1f2933"
     title: "Youxiang Jiang"
-    collapse-below: sm
+    collapse-below: md
     left:
       - text: "About / 关于"
         href: "#about"
@@ -41,3 +41,4 @@ format:
 
 execute:
   freeze: auto
+
