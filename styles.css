@@ -7,7 +7,7 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 .navbar-nav .nav-link { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#666; font-size:12px; padding-left:.75rem; padding-right:.75rem; }
 .navbar-nav .nav-link:hover { color:#111; }
 .page-content { padding:0; }
-.academic-hero, .academic-section, .closing-note { width:min(1120px,88vw); margin:0 auto; }
+.academic-hero, .academic-section, .closing-note { width:min(1120px,88vw); margin-left:auto !important; margin-right:auto !important; }
 .academic-hero { display:grid; grid-template-columns:1fr 1fr; gap:90px; padding:82px 0 76px; border-bottom:1px solid var(--line); }
 .hero-identity h1 { font-size:57px; line-height:1.08; font-weight:400; letter-spacing:-.045em; margin:0; }
 .name-cn { color:#777; font-size:25px; letter-spacing:.2em; margin-top:15px; }
@@ -34,7 +34,9 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 .publication-group + .publication-group { margin-top:48px; }
 .publication-group > h3 { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#555; font-size:14px; font-weight:500; margin:0 0 15px; }
 .publication-list { border-top:1px solid var(--line); }
-.publication-item { display:grid; grid-template-columns:70px 1fr; gap:20px; padding:20px 0; border-bottom:1px solid var(--line); }
+.publication-item { position:relative; display:block; padding:20px 0 20px 90px; border-bottom:1px solid var(--line); }
+.publication-item .pub-year { position:absolute; left:0; top:22px; }
+.publication-item p { margin:0; }
 .pub-body { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:15px; line-height:1.55; }
 .pub-body em { color:var(--muted); font-size:12px; }
 .pub-body a, .software-item a { color:var(--link); text-decoration:none; }
@@ -54,7 +56,8 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
   .section-heading { grid-template-columns:1fr; gap:2px; }
   .research-list, .education-list, .software-list { grid-template-columns:1fr; gap:22px; }
   .education-item { grid-template-columns:75px 1fr; }
-  .publication-item { grid-template-columns:50px 1fr; }
+  .academic-hero, .academic-section, .closing-note { width:calc(100% - 32px); }
+  .publication-item { padding-left:58px; }
   .contact-list { flex-wrap:wrap; gap:16px; }
 }
 
