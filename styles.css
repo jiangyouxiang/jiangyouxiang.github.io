@@ -22,20 +22,20 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 .section-heading h2 { font-size:25px; font-weight:400; margin:0; }
 .section-heading span { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#777; font-size:12px; }
 .research-list { display:grid; grid-template-columns:repeat(2,1fr); column-gap:80px; row-gap:27px; }
-.research-item { position:relative; display:block; padding:12px 0 0 46px; border-top:1px solid var(--line); }
+.research-item { position:relative; display:block; padding:12px 0 0; border-top:1px solid var(--line); }
 .item-no, .date, .pub-year { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#777; font-size:12px; }
-.research-item .item-no { position:absolute; left:0; top:12px; }
+.research-item .item-no { display:block; margin-bottom:4px; }
 .research-item h3, .education-item h3, .software-item h3 { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:16px; font-weight:600; margin:0; }
 .research-text p { color:var(--muted); font-size:14px; margin:4px 0 0; }
 .education-list { display:grid; grid-template-columns:1fr 1fr; gap:70px; }
-.education-item { position:relative; display:block; padding-left:110px; }
-.education-item .date { position:absolute; left:0; top:0; }
+.education-item { position:relative; display:block; }
+.education-item .date { display:block; margin-bottom:4px; }
 .education-text p { color:var(--muted); font-size:14px; margin:4px 0 0; }
 .publication-group + .publication-group { margin-top:48px; }
 .publication-group > h3 { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#555; font-size:14px; font-weight:500; margin:0 0 15px; }
 .publication-list { border-top:1px solid var(--line); }
-.publication-item { position:relative; display:block; padding:20px 0 20px 90px; border-bottom:1px solid var(--line); }
-.publication-item .pub-year { position:absolute; left:0; top:22px; }
+.publication-item { position:relative; display:block; padding:20px 0; border-bottom:1px solid var(--line); }
+.publication-item .pub-year { display:block; margin-bottom:4px; }
 .publication-item p { margin:0; }
 .pub-body { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:15px; line-height:1.55; }
 .pub-body em { color:var(--muted); font-size:12px; }
@@ -55,9 +55,9 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
   .academic-section { padding:42px 0; }
   .section-heading { grid-template-columns:1fr; gap:2px; }
   .research-list, .education-list, .software-list { grid-template-columns:1fr; gap:22px; }
-  .education-item { grid-template-columns:75px 1fr; }
+  .education-item { padding-left:0; }
   .academic-hero, .academic-section, .closing-note { width:calc(100% - 32px); }
-  .publication-item { padding-left:58px; }
+  .publication-item { padding-left:0; }
   .contact-list { flex-wrap:wrap; gap:16px; }
 }
 
