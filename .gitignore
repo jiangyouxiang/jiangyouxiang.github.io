@@ -1,0 +1,11 @@
+_site/
+.quarto/
+.superpowers/
+*.docx
+*.pdf
+*.log
+Thumbs.db
+Desktop.ini
+
+/.quarto/
+**/*.quarto_ipynb
