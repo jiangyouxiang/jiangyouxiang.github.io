@@ -3,211 +3,162 @@ title: "Youxiang Jiang | 姜有祥"
 pagetitle: "Youxiang Jiang | 姜有祥"
 ---
 
-::: {.hero #top}
-::: {.hero-copy}
-<p class="eyebrow">PSYCHOMETRICS · EDUCATIONAL MEASUREMENT · AI</p>
+::: {.academic-hero #about}
+::: {.hero-identity}
+# Youxiang Jiang
 
-# Youxiang Jiang<br><span>姜有祥</span>
+<div class="name-cn">姜有祥</div>
 
-<p class="role">Ph.D. in Psychometrics<br>Psychometric Researcher</p>
+<div class="role">Ph.D. in Psychometrics<br>Psychometric Researcher</div>
 
-<p class="hero-intro">Developing measurement models and assessment technologies for psychological and educational research.</p>
-
-<div class="hero-links"><a class="button-link" href="#research">Explore research <span>↗</span></a> <a class="text-link" href="mailto:jiangyouxiang34@163.com">jiangyouxiang34@163.com</a></div>
+<div class="contact-inline"><a href="mailto:jiangyouxiang34@163.com">Email ↗</a> <a href="https://orcid.org/0000-0003-4557-5038">ORCID ↗</a> <a href="https://github.com/jiangyouxiang">GitHub ↗</a></div>
 :::
+::: {.hero-statement}
+## Measurement theory and assessment technology for psychological and educational research.
 
-::: {.hero-mark aria-hidden="true"}
-<span class="mark-ring ring-one"></span><span class="mark-ring ring-two"></span><span class="mark-dot dot-one"></span><span class="mark-dot dot-two"></span><span class="mark-label">M / A / T</span>
-:::
-:::
+I study how measurement models can better represent response processes and support efficient assessment.
 
-::: {.section .section-intro #about}
-::: {.section-label}
-01 / About · 关于
-:::
-::: {.section-content .intro-grid}
-::: {.intro-heading}
-## Measurement as a way<br>to understand people.
-:::
-::: {.prose-block}
-<p class="lead">I am a psychometric researcher working at the intersection of measurement theory, educational assessment, and computational methods.</p>
-
-我的研究关注心理与教育测量中的模型创新和实际应用，尤其是连续有界反应建模、异常作答与反应风格、计算机自适应测验，以及大语言模型在测评中的应用。
-
-我也关注如何把现代心理测量方法转化为可复用的软件、交互式平台与大规模评估工具。
-:::
+我的研究关注连续有界反应、异常作答与反应风格、计算机自适应测验，以及 AI 辅助测评。
 :::
 :::
 
-::: {.section #research}
-::: {.section-label}
-02 / Research · 研究
+::: {.academic-section #research}
+::: {.section-heading}
+## Research
+<span>研究方向</span>
 :::
-::: {.section-content}
-::: {.research-grid}
-::: {.research-card .tone-blue}
-<span class="card-index">A</span>
-
-### Psychometric modeling
-
-项目反应理论、连续有界反应模型、认知诊断与测量模型的开发和验证。
-
-<div class="tag-row"><span>IRT</span><span>CBR</span><span>CDA</span></div>
+::: {.research-list}
+::: {.research-item}
+<span class="item-no">01</span>
+<h3>Psychometric modeling</h3>
+<p>项目反应理论、连续有界反应模型与认知诊断模型。</p>
 :::
-::: {.research-card .tone-sand}
-<span class="card-index">B</span>
-
-### Response processes
-
-异常作答、反应风格、社会称许性和反应时信息的统计建模与识别。
-
-<div class="tag-row"><span>Careless responding</span><span>Response style</span></div>
+::: {.research-item}
+<span class="item-no">02</span>
+<h3>Response processes</h3>
+<p>异常作答、反应风格、社会称许性和反应时建模。</p>
 :::
-::: {.research-card .tone-lilac}
-<span class="card-index">C</span>
-
-### Adaptive assessment
-
-计算机自适应测验、题目选择策略和语言能力测评的设计与优化。
-
-<div class="tag-row"><span>CAT</span><span>Vocabulary assessment</span></div>
+::: {.research-item}
+<span class="item-no">03</span>
+<h3>Adaptive assessment</h3>
+<p>计算机自适应测验、题目选择策略与语言能力测评。</p>
 :::
-::: {.research-card .tone-mint}
-<span class="card-index">D</span>
-
-### AI-assisted assessment
-
-大语言模型在题目生成、交互式测评和心理与教育数据分析中的应用。
-
-<div class="tag-row"><span>LLMs</span><span>Interactive assessment</span></div>
-:::
+::: {.research-item}
+<span class="item-no">04</span>
+<h3>AI-assisted assessment</h3>
+<p>大语言模型在题目生成、交互式测评和数据分析中的应用。</p>
 :::
 :::
 :::
 
-::: {.section .section-education #education}
-::: {.section-label}
-03 / Education · 教育经历
+::: {.academic-section #education}
+::: {.section-heading}
+## Education
+<span>教育经历</span>
 :::
-::: {.section-content .education-grid}
-::: {.degree .degree-primary}
-<span>2023–2026</span>
-
-## Ph.D. in Psychometrics
-Beijing Normal University  
-北京师范大学
+::: {.education-list}
+::: {.education-item}
+<span class="date">2023–2026</span>
+<h3>Ph.D. in Psychometrics</h3>
+<p>Beijing Normal University<br>北京师范大学</p>
 :::
-::: {.degree}
-<span>2019–2022</span>
-
-### M.Ed. / Psychometric Technology
-Jiangxi Normal University  
-江西师范大学
+::: {.education-item}
+<span class="date">2019–2022</span>
+<h3>M.Ed. / Psychometric Technology</h3>
+<p>Jiangxi Normal University<br>江西师范大学</p>
 :::
 :::
 :::
 
-::: {.section .section-publications #publications}
-::: {.section-label}
-04 / Publications · 论文
+::: {.academic-section #publications}
+::: {.section-heading}
+## Publications
+<span>已发表论文</span>
 :::
-::: {.section-content}
-::: {.subsection-heading}
-## Selected publications
-已发表
-:::
+::: {.publication-group}
+<h3>English publications</h3>
 ::: {.publication-list}
 ::: {.publication-item}
-::: {.pub-year}
-2026
-:::
-**Identifying and Modeling Careless and Insufficient Effort Responding in Continuous Rating Scale: A Response-Time-Based Mixture Model**  
-*Psychological Methods*
+<span class="pub-year">2026</span>
+<strong>Identifying and Modeling Careless and Insufficient Effort Responding in Continuous Rating Scale: A Response-Time-Based Mixture Model</strong><br>
+<em>Psychological Methods</em>
 :::
 ::: {.publication-item}
-::: {.pub-year}
-2025
-:::
-**Modeling the Response Style in Continuous Bounded Responses: Model Development and Validation**  
-*Behavior Research Methods* · [DOI ↗](https://doi.org/10.3758/s13428-025-02782-4)
+<span class="pub-year">2025</span>
+<strong>Modeling the Response Style in Continuous Bounded Responses: Model Development and Validation</strong><br>
+<em>Behavior Research Methods</em> · <a href="https://doi.org/10.3758/s13428-025-02782-4">DOI ↗</a>
 :::
 ::: {.publication-item}
-::: {.pub-year}
-2025
-:::
-**Development and Validation of the Chinese Premarital Counseling Health Belief Scale**  
-*Current Psychology* · [DOI ↗](https://doi.org/10.1007/s12144-025-08262-4)
+<span class="pub-year">2025</span>
+<strong>Development and Validation of the Chinese Premarital Counseling Health Belief Scale</strong><br>
+<em>Current Psychology</em> · <a href="https://doi.org/10.1007/s12144-025-08262-4">DOI ↗</a>
 :::
 ::: {.publication-item}
-::: {.pub-year}
-2024
-:::
-**A Family of Cognitive Diagnosis Models for Continuous Bounded Responses**  
-*Journal of Educational and Behavioral Statistics* · [DOI ↗](https://doi.org/10.3102/10769986241255970)
+<span class="pub-year">2024</span>
+<strong>A Family of Cognitive Diagnosis Models for Continuous Bounded Responses</strong><br>
+<em>Journal of Educational and Behavioral Statistics</em> · <a href="https://doi.org/10.3102/10769986241255970">DOI ↗</a>
 :::
 ::: {.publication-item}
-::: {.pub-year}
-2024
-:::
-**TestAnaAPP: An interactive R-shiny application for various test analysis methods**  
-*SoftwareX* · [DOI ↗](https://doi.org/10.1016/j.softx.2024.101967)
+<span class="pub-year">2024</span>
+<strong>TestAnaAPP: An interactive R-shiny application for various test analysis methods</strong><br>
+<em>SoftwareX</em> · <a href="https://doi.org/10.1016/j.softx.2024.101967">DOI ↗</a>
 :::
 ::: {.publication-item}
-::: {.pub-year}
-2024
+<span class="pub-year">2024</span>
+<strong>A multidimensional IRT model for ability-item-based guessing: The development of a two-parameter logistic extension model</strong><br>
+<em>Communications in Statistics - Simulation and Computation</em> · <a href="https://doi.org/10.1080/03610918.2022.2097694">DOI ↗</a>
 :::
-**A multidimensional IRT model for ability-item-based guessing: The development of a two-parameter logistic extension model**  
-*Communications in Statistics - Simulation and Computation* · [DOI ↗](https://doi.org/10.1080/03610918.2022.2097694)
+:::
+:::
+::: {.publication-group .chinese-publications}
+<h3>中文发表</h3>
+::: {.publication-list}
+::: {.publication-item}
+<span class="pub-year">2024</span>
+<strong>K-means聚类方法在中考标准设定中的信度分析</strong><br>
+<em>中国考试</em>, 8, 69–78.
+:::
+::: {.publication-item}
+<span class="pub-year">2024</span>
+<strong>国家义务教育质量监测小学科学测验题目数量对测验信度的影响</strong><br>
+<em>考试研究</em>, 20(06), 20–30.
+:::
+:::
 :::
 :::
 
+::: {.academic-section #software}
+::: {.section-heading}
+## Software
+<span>研究软件</span>
 :::
-:::
-
-::: {.section #software}
-::: {.section-label}
-05 / Software · 软件
-:::
-::: {.section-content .software-grid}
-::: {.software-feature}
-<div class="software-kicker">R · Shiny · Published software</div>
-
-## TestAnaAPP
-
-面向心理与教育测验分析的交互式 R Shiny 应用，整合多类测验分析方法，降低复杂统计方法的使用门槛。
+::: {.software-list}
+::: {.software-item}
+<h3>TestAnaAPP</h3>
+<p>面向心理与教育测验分析的交互式 R Shiny 应用。</p>
 
 [Read the paper ↗](https://doi.org/10.1016/j.softx.2024.101967)
 :::
-::: {.software-feature .secondary-software}
-<div class="software-kicker">In development · Data platform</div>
-
-## PsyMetric
-
-正在开发的社科测验数据分析平台，目标是连接现代心理测量、可复现分析流程和自动化报告。
-
-<span class="status-pill">In progress</span>
+::: {.software-item}
+<h3>PsyMetric</h3>
+<p>连接现代心理测量、可复现分析流程和自动化报告的数据平台，开发中。</p>
 :::
 :::
 :::
 
-::: {.section .section-contact #contact}
-::: {.section-label}
-06 / Contact · 联系
+::: {.academic-section #contact}
+::: {.section-heading}
+## Contact
+<span>联系</span>
 :::
-::: {.section-content .contact-layout}
-## Open to research conversations<br>and new collaborations.
-
-::: {.contact-links}
-[<span>Email</span>jiangyouxiang34@163.com ↗](mailto:jiangyouxiang34@163.com)
-
-[<span>ORCID</span>0000-0003-4557-5038 ↗](https://orcid.org/0000-0003-4557-5038)
-
-[<span>GitHub</span>github.com/jiangyouxiang ↗](https://github.com/jiangyouxiang)
-:::
+::: {.contact-list}
+[jiangyouxiang34@163.com ↗](mailto:jiangyouxiang34@163.com)  
+[ORCID ↗](https://orcid.org/0000-0003-4557-5038)  
+[GitHub ↗](https://github.com/jiangyouxiang)
 :::
 :::
 
 ::: {.closing-note}
-姜有祥 / Youxiang Jiang  
-Psychometric Researcher
+姜有祥 / Youxiang Jiang <span>Psychometric Researcher</span>
 :::
+
