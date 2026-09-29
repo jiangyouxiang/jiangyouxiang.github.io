@@ -79,39 +79,27 @@ I study how measurement models can better represent response processes and suppo
 <h3>English publications</h3>
 ::: {.publication-list}
 ::: {.publication-item}
-<span class="pub-year">2026</span>
-<div class="pub-body"><div class="pub-authors">Jiang, Y., Xi, C., &amp; Wen, H.</div><strong>Identifying and modeling careless and insufficient effort responding in continuous rating scale: A response-time-based mixture model.</strong><br>
-<em>Psychological Methods</em> · <a href="https://doi.org/10.1037/met0000869">DOI ↗</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Xi, C., &amp; Wen, H. (2026). Identifying and modeling careless and insufficient effort responding in continuous rating scale: A response-time-based mixture model. <em>Psychological Methods</em>. <a href="https://doi.org/10.1037/met0000869">https://doi.org/10.1037/met0000869</a>
 </div>
 :::
 ::: {.publication-item}
-<span class="pub-year">2025</span>
-<div class="pub-body"><div class="pub-authors">Jiang, Y., Zeng, B., Peng, S., &amp; Wen, H.</div><strong>Modeling the response style in continuous bounded response: Model development and validating.</strong><br>
-<em>Behavior Research Methods</em> · <a href="https://doi.org/10.3758/s13428-025-02782-4">DOI ↗</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Zeng, B., Peng, S., &amp; Wen, H. (2025). Modeling the response style in continuous bounded response: Model development and validating. <em>Behavior Research Methods</em>. <a href="https://doi.org/10.3758/s13428-025-02782-4">https://doi.org/10.3758/s13428-025-02782-4</a>
 </div>
 :::
 ::: {.publication-item}
-<span class="pub-year">2025</span>
-<div class="pub-body"><div class="pub-authors">Jiang, Y., Wen, W., Hu, J., &amp; Qiu, Q.</div><strong>Development and validation of the Chinese premarital counseling health belief scale.</strong><br>
-<em>Current Psychology</em> · <a href="https://doi.org/10.1007/s12144-025-08262-4">DOI ↗</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Wen, W., Hu, J., &amp; Qiu, Q. (2025). Development and validation of the Chinese premarital counseling health belief scale. <em>Current Psychology</em>. <a href="https://doi.org/10.1007/s12144-025-08262-4">https://doi.org/10.1007/s12144-025-08262-4</a>
 </div>
 :::
 ::: {.publication-item}
-<span class="pub-year">2024</span>
-<div class="pub-body"><div class="pub-authors">Jiang, Y., Tan, Q., Wen, W., Wang, D., Cai, Y., &amp; Tu, D.</div><strong>A family of cognitive diagnosis models for continuous bounded responses.</strong><br>
-<em>Journal of Educational and Behavioral Statistics</em> · <a href="https://doi.org/10.3102/10769986241255970">DOI ↗</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Tan, Q., Wen, W., Wang, D., Cai, Y., &amp; Tu, D. (2024). A family of cognitive diagnosis models for continuous bounded responses. <em>Journal of Educational and Behavioral Statistics</em>. <a href="https://doi.org/10.3102/10769986241255970">https://doi.org/10.3102/10769986241255970</a>
 </div>
 :::
 ::: {.publication-item}
-<span class="pub-year">2024</span>
-<div class="pub-body"><div class="pub-authors">Jiang, Y., Zeng, Q., &amp; Wen, H.</div><strong>TestAnaAPP: An interactive R-shiny application for various test analysis methods.</strong><br>
-<em>SoftwareX</em> · <a href="https://doi.org/10.1016/j.softx.2024.101967">DOI ↗</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Zeng, Q., &amp; Wen, H. (2024). TestAnaAPP: An interactive R-shiny application for various test analysis methods. <em>SoftwareX</em>, 28, 101967. <a href="https://doi.org/10.1016/j.softx.2024.101967">https://doi.org/10.1016/j.softx.2024.101967</a>
 </div>
 :::
 ::: {.publication-item}
-<span class="pub-year">2024</span>
-<div class="pub-body"><div class="pub-authors">Jiang, Y., Yu, X., Cai, Y., &amp; Tu, D.</div><strong>A multidimensional IRT model for ability-item-based guessing: The development of a two-parameter logistic extension model.</strong><br>
-<em>Communications in Statistics - Simulation and Computation</em> · <a href="https://doi.org/10.1080/03610918.2022.2097694">DOI ↗</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Yu, X., Cai, Y., &amp; Tu, D. (2024). A multidimensional IRT model for ability-item-based guessing: The development of a two-parameter logistic extension model. <em>Communications in Statistics - Simulation and Computation</em>, 53(7), 3068–3080. <a href="https://doi.org/10.1080/03610918.2022.2097694">https://doi.org/10.1080/03610918.2022.2097694</a>
 </div>
 :::
 :::
@@ -120,15 +108,11 @@ I study how measurement models can better represent response processes and suppo
 <h3>中文发表</h3>
 ::: {.publication-list}
 ::: {.publication-item}
-<span class="pub-year">2024</span>
-<div class="pub-body"><div class="pub-authors">Wen, H., Liu, X., &amp; Jiang, Y.</div><strong>K-means聚类方法在中考标准设定中的信度分析.</strong><br>
-<em>中国考试</em>, 8, 69–78.
+<div class="pub-body">温红博、刘先伟、<strong>姜有祥</strong>（2024）。K-means聚类方法在中考标准设定中的信度分析。<em>中国考试</em>（8），69–78。
 </div>
 :::
 ::: {.publication-item}
-<span class="pub-year">2024</span>
-<div class="pub-body"><div class="pub-authors">Jiang, Y., Cao, L., &amp; Wen, H.</div><strong>国家义务教育质量监测小学科学测验题目数量对测验信度的影响.</strong><br>
-<em>考试研究</em>, 20(06), 20–30.
+<div class="pub-body"><strong>姜有祥</strong>、曹朗、温红博（2024）。国家义务教育质量监测小学科学测验题目数量对测验信度的影响。<em>考试研究</em>（6），20–30。
 </div>
 :::
 :::
