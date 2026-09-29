@@ -1,6 +1,6 @@
 :root { --ink:#252525; --muted:#6b6b6b; --line:#d9d9d9; --link:#3f5f72; --page-width:min(1120px,calc(100% - 48px)); }
 html { scroll-behavior:smooth; }
-body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", serif; font-size:17px; line-height:1.72; }
+body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", serif; font-size:18px; line-height:1.72; }
 #title-block-header, .quarto-title-block { display:none !important; }
 #quarto-header .navbar { width:var(--page-width); margin:0 auto; height:70px; padding:0; border-bottom:1px solid var(--line); box-shadow:none; }
 #quarto-header .navbar > .container-fluid { padding-left:0; padding-right:0; }
@@ -13,16 +13,16 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 .academic-hero { display:grid; grid-template-columns:1fr 1fr; gap:90px; padding:82px 0 76px; border-bottom:1px solid var(--line); }
 .hero-identity h1 { font-size:57px; line-height:1.08; font-weight:400; letter-spacing:-.045em; margin:0; }
 .name-cn { color:#777; font-size:25px; letter-spacing:.2em; margin-top:15px; }
-.role { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:16px; line-height:1.8; margin-top:28px; }
+.role { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:17px; line-height:1.8; margin-top:28px; }
 .contact-inline { display:flex; gap:23px; margin-top:28px; font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:12px; color:var(--link); }
 .contact-inline a, .contact-list a { border-bottom:1px solid #aab8bf; padding-bottom:2px; text-decoration:none; }
 .hero-statement { border-left:1px solid #999; padding-left:30px; align-self:end; }
 .hero-statement h2 { font-size:27px; line-height:1.35; font-weight:400; margin:0 0 17px; }
-.hero-statement p { color:var(--muted); font-size:16px; margin:10px 0; }
+.hero-statement p { color:var(--muted); font-size:17px; margin:10px 0; }
 .academic-section { padding:57px 0; border-bottom:1px solid var(--line); }
 .section-heading { display:grid; grid-template-columns:190px 1fr; gap:44px; align-items:baseline; margin-bottom:24px; }
 .section-heading h2 { font-size:25px; font-weight:400; margin:0; }
-.section-heading span { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#777; font-size:13px; }
+.section-heading span { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#777; font-size:14px; }
 .research-list { display:grid; grid-template-columns:repeat(2,1fr); column-gap:80px; row-gap:27px; }
 .research-item { position:relative; display:block; padding:12px 0 0; border-top:1px solid var(--line); }
 .item-no, .date, .pub-year { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#777; font-size:12px; }
@@ -39,12 +39,12 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 .publication-item { position:relative; display:block; padding:20px 0; border-bottom:1px solid var(--line); }
 .publication-item .pub-year { display:block; margin-bottom:4px; }
 .publication-item p { margin:0; }
-.pub-body { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:16px; line-height:1.62; }
+.pub-body { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:17px; line-height:1.62; }
 .pub-body strong { font-weight:700; }
 .pub-body em { color:var(--muted); font-size:12px; }
 .pub-body a, .software-item a { color:var(--link); text-decoration:none; }
 .software-list { display:grid; grid-template-columns:1fr 1fr; gap:70px; }
-.software-item p { color:var(--muted); font-size:15px; margin:6px 0 0; }
+.software-item p { color:var(--muted); font-size:16px; margin:6px 0 0; }
 .software-item a { display:inline-block; font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:12px; margin-top:12px; }
 .contact-list { display:flex; gap:28px; font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:13px; color:var(--link); }
 .closing-note { padding:26px 0 45px; color:#777; font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:11px; }
