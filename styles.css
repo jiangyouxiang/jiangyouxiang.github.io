@@ -40,8 +40,7 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 .publication-item .pub-year { display:block; margin-bottom:4px; }
 .publication-item p { margin:0; }
 .pub-body { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:15px; line-height:1.55; }
-.pub-authors { color:#555; font-size:13px; margin-bottom:2px; }
-.pub-body strong { font-weight:600; }
+.pub-body strong { font-weight:700; }
 .pub-body em { color:var(--muted); font-size:12px; }
 .pub-body a, .software-item a { color:var(--link); text-decoration:none; }
 .software-list { display:grid; grid-template-columns:1fr 1fr; gap:70px; }
