@@ -9,7 +9,7 @@ pagetitle: "Youxiang Jiang | 姜有祥"
 
 <div class="name-cn">姜有祥</div>
 
-<div class="role">Ph.D. in Psychometrics<br>Psychometric Researcher</div>
+<div class="role">Ph.D. in Psychology (Psychometrics)<br>Psychometric Researcher</div>
 
 <div class="contact-inline"><a href="mailto:jiangyouxiang34@163.com">Email ↗</a> <a href="https://orcid.org/0000-0003-4557-5038">ORCID ↗</a> <a href="https://github.com/jiangyouxiang">GitHub ↗</a></div>
 :::
@@ -59,7 +59,7 @@ I study how measurement models can better represent response processes and suppo
 ::: {.education-list}
 ::: {.education-item}
 <span class="date">2023–2026</span>
-<h3>Ph.D. in Psychometrics</h3>
+<h3>Ph.D. in Psychology (Psychometrics)</h3>
 <p>Beijing Normal University<br>北京师范大学</p>
 :::
 ::: {.education-item}
@@ -80,32 +80,32 @@ I study how measurement models can better represent response processes and suppo
 ::: {.publication-list}
 ::: {.publication-item}
 <span class="pub-year">2026</span>
-<strong>Identifying and Modeling Careless and Insufficient Effort Responding in Continuous Rating Scale: A Response-Time-Based Mixture Model</strong><br>
-<em>Psychological Methods</em>
+<strong>Jiang, Y., Xi, C., &amp; Wen, H. (2026). Identifying and modeling careless and insufficient effort responding in continuous rating scale: A response-time-based mixture model.</strong><br>
+<em>Psychological Methods</em> · <a href="https://doi.org/10.1037/met0000869">DOI ↗</a>
 :::
 ::: {.publication-item}
 <span class="pub-year">2025</span>
-<strong>Modeling the Response Style in Continuous Bounded Responses: Model Development and Validation</strong><br>
+<strong>Jiang, Y., Zeng, B., Peng, S., &amp; Wen, H. (2025). Modeling the response style in continuous bounded response: Model development and validating.</strong><br>
 <em>Behavior Research Methods</em> · <a href="https://doi.org/10.3758/s13428-025-02782-4">DOI ↗</a>
 :::
 ::: {.publication-item}
 <span class="pub-year">2025</span>
-<strong>Development and Validation of the Chinese Premarital Counseling Health Belief Scale</strong><br>
+<strong>Jiang, Y., Wen, W., Hu, J., &amp; Qiu, Q. (2025). Development and validation of the Chinese premarital counseling health belief scale.</strong><br>
 <em>Current Psychology</em> · <a href="https://doi.org/10.1007/s12144-025-08262-4">DOI ↗</a>
 :::
 ::: {.publication-item}
 <span class="pub-year">2024</span>
-<strong>A Family of Cognitive Diagnosis Models for Continuous Bounded Responses</strong><br>
+<strong>Jiang, Y., Tan, Q., Wen, W., Wang, D., Cai, Y., &amp; Tu, D. (2024). A family of cognitive diagnosis models for continuous bounded responses.</strong><br>
 <em>Journal of Educational and Behavioral Statistics</em> · <a href="https://doi.org/10.3102/10769986241255970">DOI ↗</a>
 :::
 ::: {.publication-item}
 <span class="pub-year">2024</span>
-<strong>TestAnaAPP: An interactive R-shiny application for various test analysis methods</strong><br>
+<strong>Jiang, Y., Zeng, Q., &amp; Wen, H. (2024). TestAnaAPP: An interactive R-shiny application for various test analysis methods.</strong><br>
 <em>SoftwareX</em> · <a href="https://doi.org/10.1016/j.softx.2024.101967">DOI ↗</a>
 :::
 ::: {.publication-item}
 <span class="pub-year">2024</span>
-<strong>A multidimensional IRT model for ability-item-based guessing: The development of a two-parameter logistic extension model</strong><br>
+<strong>Jiang, Y., Yu, X., Cai, Y., &amp; Tu, D. (2024). A multidimensional IRT model for ability-item-based guessing: The development of a two-parameter logistic extension model.</strong><br>
 <em>Communications in Statistics - Simulation and Computation</em> · <a href="https://doi.org/10.1080/03610918.2022.2097694">DOI ↗</a>
 :::
 :::
@@ -115,12 +115,12 @@ I study how measurement models can better represent response processes and suppo
 ::: {.publication-list}
 ::: {.publication-item}
 <span class="pub-year">2024</span>
-<strong>K-means聚类方法在中考标准设定中的信度分析</strong><br>
+<strong>Wen, H., Liu, X., &amp; Jiang, Y. (2024). K-means聚类方法在中考标准设定中的信度分析.</strong><br>
 <em>中国考试</em>, 8, 69–78.
 :::
 ::: {.publication-item}
 <span class="pub-year">2024</span>
-<strong>国家义务教育质量监测小学科学测验题目数量对测验信度的影响</strong><br>
+<strong>Jiang, Y., Cao, L., &amp; Wen, H. (2024). 国家义务教育质量监测小学科学测验题目数量对测验信度的影响.</strong><br>
 <em>考试研究</em>, 20(06), 20–30.
 :::
 :::
