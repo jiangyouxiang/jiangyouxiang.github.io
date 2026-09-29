@@ -108,11 +108,11 @@ I study how measurement models can better represent response processes and suppo
 <h3>中文发表</h3>
 ::: {.publication-list}
 ::: {.publication-item}
-<div class="pub-body">温红博、刘先伟、<strong>姜有祥</strong>（2024）。K-means聚类方法在中考标准设定中的信度分析。<em>中国考试</em>（8），69–78。
+<div class="pub-body">温红博, 刘先伟, <strong>姜有祥</strong>（2024）.K-means聚类方法在中考标准设定中的信度分析. <em>中国考试</em>（8），69–78
 </div>
 :::
 ::: {.publication-item}
-<div class="pub-body"><strong>姜有祥</strong>、曹朗、温红博（2024）。国家义务教育质量监测小学科学测验题目数量对测验信度的影响。<em>考试研究</em>（6），20–30。
+<div class="pub-body"><strong>姜有祥</strong>, 曹朗, 温红博（2024）. 国家义务教育质量监测小学科学测验题目数量对测验信度的影响. <em>考试研究</em>（6），20–30
 </div>
 :::
 :::
