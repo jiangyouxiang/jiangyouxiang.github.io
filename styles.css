@@ -1,13 +1,15 @@
-:root { --ink:#252525; --muted:#6b6b6b; --line:#d9d9d9; --link:#3f5f72; }
+:root { --ink:#252525; --muted:#6b6b6b; --line:#d9d9d9; --link:#3f5f72; --page-width:min(1120px,calc(100% - 48px)); }
 html { scroll-behavior:smooth; }
 body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times New Roman", "Noto Serif SC", "Songti SC", serif; font-size:16px; line-height:1.7; }
 #title-block-header, .quarto-title-block { display:none !important; }
-.navbar { width:min(1120px,88vw); margin:0 auto; height:70px; padding:0; border-bottom:1px solid var(--line); box-shadow:none; }
+#quarto-header .navbar { width:var(--page-width); margin:0 auto; height:70px; padding:0; border-bottom:1px solid var(--line); box-shadow:none; }
+#quarto-header .navbar > .container-fluid { padding-left:0; padding-right:0; }
 .navbar-brand { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:17px; font-weight:600; letter-spacing:.01em; }
 .navbar-nav .nav-link { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#666; font-size:12px; padding-left:.75rem; padding-right:.75rem; }
 .navbar-nav .nav-link:hover { color:#111; }
-.page-content { padding:0; }
-.academic-hero, .academic-section, .closing-note { width:min(1120px,88vw); margin-left:auto !important; margin-right:auto !important; }
+/* The main element spans Quarto's screen grid, rather than its article column. */
+#quarto-document-content { grid-column:screen-start / screen-end; width:var(--page-width); max-width:none; min-width:0; justify-self:center; padding:0; margin:0; }
+.academic-hero, .academic-section, .closing-note { width:100%; min-width:0; margin:0; }
 .academic-hero { display:grid; grid-template-columns:1fr 1fr; gap:90px; padding:82px 0 76px; border-bottom:1px solid var(--line); }
 .hero-identity h1 { font-size:57px; line-height:1.08; font-weight:400; letter-spacing:-.045em; margin:0; }
 .name-cn { color:#777; font-size:25px; letter-spacing:.2em; margin-top:15px; }
@@ -47,7 +49,8 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 .closing-note { padding:26px 0 45px; color:#777; font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:11px; }
 .closing-note span { float:right; }
 @media (max-width:760px) {
-  .navbar { height:auto; padding:17px 0; align-items:flex-start; }
+  :root { --page-width:calc(100% - 32px); }
+  #quarto-header .navbar { height:auto; padding:17px 0; align-items:flex-start; }
   .navbar-nav { gap:0; }
   .navbar-nav .nav-link { padding:.2rem .4rem; }
   .academic-hero { grid-template-columns:1fr; gap:40px; padding:54px 0; }
@@ -56,7 +59,6 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
   .section-heading { grid-template-columns:1fr; gap:2px; }
   .research-list, .education-list, .software-list { grid-template-columns:1fr; gap:22px; }
   .education-item { padding-left:0; }
-  .academic-hero, .academic-section, .closing-note { width:calc(100% - 32px); }
   .publication-item { padding-left:0; }
   .contact-list { flex-wrap:wrap; gap:16px; }
 }
