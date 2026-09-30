@@ -5,7 +5,7 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 #quarto-header .navbar { width:var(--page-width); margin:0 auto; height:70px; padding:0; border-bottom:1px solid var(--line); box-shadow:none; }
 #quarto-header .navbar > .container-fluid { padding-left:0; padding-right:0; }
 .navbar-brand { font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:17px; font-weight:600; letter-spacing:.01em; }
-.navbar-nav .nav-link { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#666; font-size:13px; padding-left:.75rem; padding-right:.75rem; }
+.navbar-nav .nav-link { font-family:"Segoe UI","Microsoft YaHei",sans-serif; color:#666; font-size:14px; padding-left:.75rem; padding-right:.75rem; }
 .navbar-nav .nav-link:hover { color:#111; }
 /* The main element spans Quarto's screen grid, rather than its article column. */
 #quarto-document-content { grid-column:screen-start / screen-end; width:var(--page-width); max-width:none; min-width:0; justify-self:center; padding:0; margin:0; }
@@ -49,12 +49,14 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
 .contact-list { display:flex; gap:28px; font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:13px; color:var(--link); }
 .closing-note { padding:26px 0 45px; color:#777; font-family:"Segoe UI","Microsoft YaHei",sans-serif; font-size:11px; }
 .closing-note span { float:right; }
+.footer { padding:0 0 24px; }
+.nav-footer { padding-top:18px !important; padding-bottom:0 !important; }
 @media (max-width:760px) {
   :root { --page-width:calc(100% - 32px); }
   #quarto-header .navbar { height:auto; padding:17px 0; align-items:flex-start; }
   .navbar-nav { gap:0; }
   .navbar-nav .nav-link { padding:.2rem .4rem; }
-  .academic-hero { grid-template-columns:1fr; gap:40px; padding:54px 0; }
+  .academic-hero { grid-template-columns:1fr; gap:30px; padding:42px 0; }
   .hero-statement { padding-left:20px; }
   .academic-section { padding:42px 0; }
   .section-heading { grid-template-columns:1fr; gap:2px; }
@@ -62,5 +64,8 @@ body { margin:0; background:#fff; color:var(--ink); font-family: Georgia, "Times
   .education-item { padding-left:0; }
   .publication-item { padding-left:0; }
   .contact-list { flex-wrap:wrap; gap:16px; }
+  .nav-footer { flex-direction:column; align-items:center; gap:4px; }
+  .nav-footer-left, .nav-footer-right { margin:0 !important; }
+  .nav-footer-center { display:none; }
 }
 
