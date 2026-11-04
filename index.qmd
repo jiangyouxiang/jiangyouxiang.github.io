@@ -5,6 +5,9 @@ pagetitle: "Youxiang Jiang | 姜有祥"
 
 ::: {.academic-hero #about}
 ::: {.hero-identity}
+![](assets/youxiang-jiang.jpg){.profile-photo alt="姜有祥证件照"}
+
+<div class="identity-copy">
 # Youxiang Jiang
 
 <div class="name-cn">姜有祥</div>
@@ -12,6 +15,7 @@ pagetitle: "Youxiang Jiang | 姜有祥"
 <div class="role">Ph.D. in Psychology (Psychometrics)<br>Psychometric Researcher</div>
 
 <div class="contact-inline"><a href="mailto:jiangyouxiang34@163.com">Email ↗</a> <a href="https://orcid.org/0000-0003-4557-5038">ORCID ↗</a> <a href="https://github.com/jiangyouxiang">GitHub ↗</a></div>
+</div>
 :::
 ::: {.hero-statement}
 ## Measurement theory and assessment technology for psychological and educational research.
@@ -79,27 +83,27 @@ I study how measurement models can better represent response processes and suppo
 <h3>English publications</h3>
 ::: {.publication-list}
 ::: {.publication-item}
-<div class="pub-body"><strong>Jiang, Y.</strong>, Xi, C., &amp; Wen, H. (2026). Identifying and modeling careless and insufficient effort responding in continuous rating scale: A response-time-based mixture model. <em>Psychological Methods</em>. <a href="https://doi.org/10.1037/met0000869">https://doi.org/10.1037/met0000869</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Xi, C., &amp; Wen, H. (2026). Identifying and modeling careless and insufficient effort responding in continuous rating scale: A response-time-based mixture model. <em>Psychological Methods</em>. <a href="https://doi.org/10.1037/met0000869">DOI ↗</a>
 </div>
 :::
 ::: {.publication-item}
-<div class="pub-body"><strong>Jiang, Y.</strong>, Zeng, B., Peng, S., &amp; Wen, H. (2025). Modeling the response style in continuous bounded response: Model development and validating. <em>Behavior Research Methods</em>. <a href="https://doi.org/10.3758/s13428-025-02782-4">https://doi.org/10.3758/s13428-025-02782-4</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Zeng, B., Peng, S., &amp; Wen, H. (2025). Modeling the response style in continuous bounded response: Model development and validating. <em>Behavior Research Methods</em>. <a href="https://doi.org/10.3758/s13428-025-02782-4">DOI ↗</a>
 </div>
 :::
 ::: {.publication-item}
-<div class="pub-body"><strong>Jiang, Y.</strong>, Wen, W., Hu, J., &amp; Qiu, Q. (2025). Development and validation of the Chinese premarital counseling health belief scale. <em>Current Psychology</em>. <a href="https://doi.org/10.1007/s12144-025-08262-4">https://doi.org/10.1007/s12144-025-08262-4</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Wen, W., Hu, J., &amp; Qiu, Q. (2025). Development and validation of the Chinese premarital counseling health belief scale. <em>Current Psychology</em>. <a href="https://doi.org/10.1007/s12144-025-08262-4">DOI ↗</a>
 </div>
 :::
 ::: {.publication-item}
-<div class="pub-body"><strong>Jiang, Y.</strong>, Tan, Q., Wen, W., Wang, D., Cai, Y., &amp; Tu, D. (2024). A family of cognitive diagnosis models for continuous bounded responses. <em>Journal of Educational and Behavioral Statistics</em>. <a href="https://doi.org/10.3102/10769986241255970">https://doi.org/10.3102/10769986241255970</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Tan, Q., Wen, W., Wang, D., Cai, Y., &amp; Tu, D. (2024). A family of cognitive diagnosis models for continuous bounded responses. <em>Journal of Educational and Behavioral Statistics</em>. <a href="https://doi.org/10.3102/10769986241255970">DOI ↗</a>
 </div>
 :::
 ::: {.publication-item}
-<div class="pub-body"><strong>Jiang, Y.</strong>, Zeng, Q., &amp; Wen, H. (2024). TestAnaAPP: An interactive R-shiny application for various test analysis methods. <em>SoftwareX</em>, 28, 101967. <a href="https://doi.org/10.1016/j.softx.2024.101967">https://doi.org/10.1016/j.softx.2024.101967</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Zeng, Q., &amp; Wen, H. (2024). TestAnaAPP: An interactive R-shiny application for various test analysis methods. <em>SoftwareX</em>, 28, 101967. <a href="https://doi.org/10.1016/j.softx.2024.101967">DOI ↗</a>
 </div>
 :::
 ::: {.publication-item}
-<div class="pub-body"><strong>Jiang, Y.</strong>, Yu, X., Cai, Y., &amp; Tu, D. (2024). A multidimensional IRT model for ability-item-based guessing: The development of a two-parameter logistic extension model. <em>Communications in Statistics - Simulation and Computation</em>, 53(7), 3068–3080. <a href="https://doi.org/10.1080/03610918.2022.2097694">https://doi.org/10.1080/03610918.2022.2097694</a>
+<div class="pub-body"><strong>Jiang, Y.</strong>, Yu, X., Cai, Y., &amp; Tu, D. (2024). A multidimensional IRT model for ability-item-based guessing: The development of a two-parameter logistic extension model. <em>Communications in Statistics - Simulation and Computation</em>, 53(7), 3068–3080. <a href="https://doi.org/10.1080/03610918.2022.2097694">DOI ↗</a>
 </div>
 :::
 :::
@@ -144,13 +148,12 @@ I study how measurement models can better represent response processes and suppo
 <span>联系</span>
 :::
 ::: {.contact-list}
-[jiangyouxiang34@163.com ↗](mailto:jiangyouxiang34@163.com)  
-[ORCID ↗](https://orcid.org/0000-0003-4557-5038)  
-[GitHub ↗](https://github.com/jiangyouxiang)
+<a href="mailto:jiangyouxiang34@163.com">jiangyouxiang34@163.com ↗</a>
+<a href="https://orcid.org/0000-0003-4557-5038">ORCID ↗</a>
+<a href="https://github.com/jiangyouxiang">GitHub ↗</a>
 :::
 :::
 
 ::: {.closing-note}
 姜有祥 / Youxiang Jiang <span>Psychometric Researcher</span>
 :::
-
